@@ -7,14 +7,14 @@ Off the clock, you'll find me tinkering with new projects, staying updated on th
 
 ## Technical Project Highlights
 
-### Recent GenAI/RAG Demos & Examples
+### GenAI & RAG
 - Demo application for GraphRAG patterns: [code](https://github.com/neo4j-product-examples/graphrag-examples) & [webinar recording](https://www.youtube.com/watch?v=OuyTENdRcNs)
 - Short videos:
-    - [Build a dynamic search application with ai-agents and Neo4j](https://www.youtube.com/watch?v=wKJRvK6u5f8)
-    - [Why Neo4j for RAG?](https://www.youtube.com/watch?v=7kbHw7dniUc)
+  - [Build a dynamic search application with ai-agents and Neo4j](https://www.youtube.com/watch?v=wKJRvK6u5f8)
+  - [Why Neo4j for RAG?](https://www.youtube.com/watch?v=7kbHw7dniUc)
 - [Reusable hands-on GenAI workshop](https://github.com/neo4j-product-examples/genai-workshop/blob/main/genai-workshop.ipynb), run globally for in-person events with prospects & customers
 
-### Technical Resources for Graph Data Science and ML
+### Graph Data Science & ML
 - Graph Data Science for fraud detection: [blog](https://neo4j.com/developer-blog/exploring-fraud-detection-neo4j-graph-data-science-summary/) & [code](https://github.com/neo4j-product-examples/demo-fraud-detection-with-p2p)
 - Graph Data Science for recommendation systems: [blog](https://towardsdatascience.com/exploring-practical-recommendation-engines-in-neo4j-ff09fe767782) & [code](https://github.com/neo4j-product-examples/ds-recommendation-use-cases/tree/main/news-recommendation-mind/mind-large-collab-filtering)
 - [Graph machine learning overview (blog)](https://towardsdatascience.com/graph-machine-learning-an-overview-c996e53fab90)
