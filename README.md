@@ -11,7 +11,7 @@ Off the clock, you'll find me tinkering with new projects, staying updated on th
 - Graph-ND (Knowledge in Graphs, not Documents) - a new Python project for building end-to-end GraphRAG systems with a simple, intuitive API: [code](https://github.com/zach-blumenfeld/graph-nd)
 - End-to-end example for building a customer & retail analytics agent that leverages mixed data with GraphRAG: [dev guide](https://neo4j.com/developer/genai-ecosystem/customer-graph-agent/) & [code](https://github.com/neo4j-product-examples/graphrag-examples/tree/main/customer-graph)
 - Example application for improving customer experiences with AI & GraphRAG: [dev guide](https://neo4j.com/developer/genai-ecosystem/ai-for-customer-experiences/) & [code](https://github.com/neo4j-product-examples/graphrag-customer-experience)
-- Boosting Q&A accuracy With graph databases & graph neural networks (GNNs) + LLM fine-tuning (G-Retriever): [code](https://github.com/neo4j-product-examples/neo4j-gnn-llm-example)
+- Boosting Q&A accuracy With graph databases & graph neural networks (GNNs) + LLM fine-tuning (G-Retriever): [NVIDIA blog](https://developer.nvidia.com/blog/boosting-qa-accuracy-with-graphrag-using-pyg-and-graph-databases/), [code](https://github.com/neo4j-product-examples/neo4j-gnn-llm-example)
 - [Hands-on AI & graphs workshop](https://github.com/neo4j-product-examples/genai-workshop/blob/main/genai-workshop.ipynb), run globally for in-person events with prospects & customers
 - Demo application for GraphRAG patterns: [code](https://github.com/neo4j-product-examples/graphrag-examples/tree/main/patterns-app) & [webinar recording](https://www.youtube.com/watch?v=OuyTENdRcNs)
 - Short videos:
