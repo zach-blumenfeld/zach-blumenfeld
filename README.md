@@ -7,17 +7,23 @@ Off the clock, you'll find me tinkering with new projects, staying updated on th
 
 ## Technical Project Highlights
 
-### GenAI & RAG
-- Graph-ND (Knowledge in Graphs, not Documents) - a new Python project for building end-to-end GraphRAG systems with a simple, intuitive API: [code](https://github.com/zach-blumenfeld/graph-nd)
-- End-to-end example for building a customer & retail analytics agent that leverages mixed data with GraphRAG: [dev guide](https://neo4j.com/developer/genai-ecosystem/customer-graph-agent/) & [code](https://github.com/neo4j-product-examples/graphrag-examples/tree/main/customer-graph)
-- Example application for improving customer experiences with AI & GraphRAG: [dev guide](https://neo4j.com/developer/genai-ecosystem/ai-for-customer-experiences/) & [code](https://github.com/neo4j-product-examples/graphrag-customer-experience)
-- Boosting Q&A accuracy With graph databases & graph neural networks (GNNs) + LLM fine-tuning (G-Retriever): [NVIDIA blog](https://developer.nvidia.com/blog/boosting-qa-accuracy-with-graphrag-using-pyg-and-graph-databases/), [code](https://github.com/neo4j-product-examples/neo4j-gnn-llm-example)
-- [Hands-on AI & graphs workshop](https://github.com/neo4j-product-examples/genai-workshop/blob/main/genai-workshop.ipynb), run globally for in-person events with prospects & customers
-- Demo application for GraphRAG patterns: [code](https://github.com/neo4j-product-examples/graphrag-examples/tree/main/patterns-app) & [webinar recording](https://www.youtube.com/watch?v=OuyTENdRcNs)
-- Short videos:
+### AI, Agents, and Retrieval
+
+#### Software Dev & Research
+- __Graph-ND (Knowledge in Graphs, not Documents)__ - a new Python project for building end-to-end GraphRAG systems with a simple, intuitive API: [code](https://github.com/zach-blumenfeld/graph-nd)
+- __Boosting Q&A accuracy__ with __graph DBs__ & graph neural networks (__GNNs__) + LLM fine-tuning with __G-Retriever__:
+   - [NVIDIA blog](https://developer.nvidia.com/blog/boosting-qa-accuracy-with-graphrag-using-pyg-and-graph-databases/)
+   - [code](https://github.com/neo4j-product-examples/neo4j-gnn-llm-example)
+
+#### Applied Examples
+- __Agentic AI for supply chain & bill of materials__ - Supplier substitution search, country & trade dependency analytics for complex BOMs with mixed intel, parts search and comparisons, etc. End-to-end example with deployment on GCP: [code](https://github.com/neo4j-product-examples/neo4j-supplier-graph) 
+- __Agentic AI for customer & retail analytics__ leverages mixed data with GraphRAG. End-to-end example from data loading, to designing retrieval tools, and building an agent: [dev guide](https://neo4j.com/developer/genai-ecosystem/customer-graph-agent/) & [code](https://github.com/neo4j-product-examples/graphrag-examples/tree/main/customer-graph)
+- __Improving customer experiences with AI & GraphRAG applications__: [dev guide](https://neo4j.com/developer/genai-ecosystem/ai-for-customer-experiences/) & [code](https://github.com/neo4j-product-examples/graphrag-customer-experience)
+- __[Hands-on AI & graph workshops](https://github.com/neo4j-product-examples/genai-workshop)__, run globally for in-person events with prospects & customers
+- __Demo application for GraphRAG patterns__: [code](https://github.com/neo4j-product-examples/graphrag-examples/tree/main/patterns-app) & [webinar recording](https://www.youtube.com/watch?v=OuyTENdRcNs)
+#### Short Videos
   - [Build a dynamic search application with ai-agents and Neo4j](https://www.youtube.com/watch?v=wKJRvK6u5f8)
   - [Why Neo4j for RAG?](https://www.youtube.com/watch?v=7kbHw7dniUc)
-
 
 ### Graph Data Science & ML
 - Graph Data Science for fraud detection: [blog](https://neo4j.com/developer-blog/exploring-fraud-detection-neo4j-graph-data-science-summary/) & [code](https://github.com/neo4j-product-examples/demo-fraud-detection-with-p2p)
