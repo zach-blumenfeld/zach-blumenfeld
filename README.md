@@ -10,14 +10,14 @@ Off the clock, you'll find me tinkering with new projects, staying updated on th
 ### AI, Agents, and Retrieval
 
 #### Software Dev & Research
-- __Graph-ND (Knowledge in Graphs, not Documents)__ - a new Python project for building end-to-end GraphRAG systems with a simple, intuitive API: [code](https://github.com/zach-blumenfeld/graph-nd)
+- __Graph-ND (Knowledge in Graphs, not Documents)__: [code](https://github.com/zach-blumenfeld/graph-nd) - a new Python project for building end-to-end GraphRAG systems with a simple, intuitive API.
 - __Boosting Q&A accuracy__ with __graph DBs__ & graph neural networks (__GNNs__) + LLM fine-tuning with __G-Retriever__:
    - [NVIDIA blog](https://developer.nvidia.com/blog/boosting-qa-accuracy-with-graphrag-using-pyg-and-graph-databases/)
    - [code](https://github.com/neo4j-product-examples/neo4j-gnn-llm-example)
 
 #### Applied Examples
-- __Agentic AI for supply chain & bill of materials__ - Supplier substitution search, country & trade dependency analytics for complex BOMs with mixed intel, parts search and comparisons, etc. End-to-end example with deployment on GCP: [code](https://github.com/neo4j-product-examples/neo4j-supplier-graph) 
-- __Agentic AI for customer & retail analytics__ leverages mixed data with GraphRAG. End-to-end example from data loading, to designing retrieval tools, and building an agent: [dev guide](https://neo4j.com/developer/genai-ecosystem/customer-graph-agent/) & [code](https://github.com/neo4j-product-examples/graphrag-examples/tree/main/customer-graph)
+- __Agentic AI for supply chain & bill of materials__: [code](https://github.com/neo4j-product-examples/neo4j-supplier-graph) - Supplier substitution search, country & trade dependency analytics for complex BOMs with mixed intel, parts search and comparisons, etc. End-to-end example with deployment on GCP
+- __Agentic AI for customer & retail analytics__ [dev guide](https://neo4j.com/developer/genai-ecosystem/customer-graph-agent/) & [code](https://github.com/neo4j-product-examples/graphrag-examples/tree/main/customer-graph) - leverages mixed data with GraphRAG. End-to-end example from data loading, to designing retrieval tools, and building an agent
 - __Improving customer experiences with AI & GraphRAG applications__: [dev guide](https://neo4j.com/developer/genai-ecosystem/ai-for-customer-experiences/) & [code](https://github.com/neo4j-product-examples/graphrag-customer-experience)
 - __[Hands-on AI & graph workshops](https://github.com/neo4j-product-examples/genai-workshop)__, run globally for in-person events with prospects & customers
 - __Demo application for GraphRAG patterns__: [code](https://github.com/neo4j-product-examples/graphrag-examples/tree/main/patterns-app) & [webinar recording](https://www.youtube.com/watch?v=OuyTENdRcNs)
